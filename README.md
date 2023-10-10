@@ -1,4 +1,4 @@
-SquidGame2D is a very simple Web3 web game based on the Binance Smart Chain (BSC). Currently, this game only supports operation through a browser and the Metamask plugin.
+SquidGame2D is a very simple Web3 web game based on the Binance Smart Chain (BSC). SquidGame2D only supports operation through a browser and the MetaMask plugin.
 
 Game URLs:
 https://squidgame2d.com
